@@ -1,7 +1,7 @@
 ## Order Summary Card Component
 This is a solution to the Frontend Mentor Order Summary Card challenge. The goal was to build a responsive card component and match the provided design as closely as possible, including hover states.
 
-![Screenshot of the Order Summary Card](../images/screenshot.png.jpg)
+![Screenshot of the Order Summary Card](./images/screenshot.png.jpg)
 
 ## 🛠️ Built With
 - Semantic HTML5 markup
